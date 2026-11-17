@@ -1,27 +1,26 @@
-# Hi, I'm Hanif
+# Introduction: Hanif Sakhi (123sakhi)
 
-M.Sc. Economics student at Kiel University (CAU), focused on quantitative finance, energy markets and data science. B.Sc. from NUST, Pakistan. Based in Kiel, Germany; originally from Hunza. Expected graduation: September 2027.
+M.Sc. Economics student at Kiel University (CAU), Germany. I work on **forecasting, risk measures and analytics** for **financial markets, energy trading and retail**.
 
-I also work as a freelance data analyst on Upwork.
+## Focus areas
 
-## What I work on
-
-- Derivatives pricing and volatility: Black-Scholes, Greeks, implied-volatility surfaces
-- Energy-market analytics: price forecasting, trading signals, risk metrics
-- Data analysis and dashboards in Python
-
-## Selected projects
-
-| Project | What it shows |
+| Area | What I do |
 | --- | --- |
-| [options-vol-surface](https://github.com/123sakhi/options-vol-surface) | Black-Scholes, Greeks and implied-vol inversion built from scratch with numpy/scipy; SPY volatility smile and surface; Monte-Carlo cross-check; delta-hedging simulation |
-| [Energy-Market-Backtesting-Trading-Strategies](https://github.com/123sakhi/Energy-Market-Backtesting-Trading-Strategies) | Dash dashboard with ARIMA price forecasting, moving-average crossover signals and risk metrics (Sharpe, VaR, drawdown) |
+| Financial markets | Option pricing, Greeks, implied-volatility surfaces, hedging simulations |
+| Energy and trading | Price forecasting, trading signals, risk metrics (Sharpe ratio, VaR, drawdown) |
+| Retail | Strategic planning and analytics (working student at ABOUT YOU, until May 2026) |
+| Forecasting and risk | Time-series models (ARIMA), Monte-Carlo simulation, performance and risk reporting |
+
+## Projects
+
+- [options-vol-surface](https://github.com/123sakhi/options-vol-surface): Black-Scholes, Greeks and implied volatility built from scratch; SPY volatility smile and surface; Monte-Carlo and delta-hedging checks
+- [Energy-Market-Backtesting-Trading-Strategies](https://github.com/123sakhi/Energy-Market-Backtesting-Trading-Strategies): Dash dashboard with ARIMA price forecasts, moving-average signals and risk metrics
 
 ## Tools
 
-Python (pandas, NumPy, SciPy, statsmodels, Plotly/Dash), Git
+Python, pandas, NumPy, SciPy, statsmodels, Plotly/Dash, Git
 
-## Find me
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/hanif-sakhi-26054115b)
-- [Upwork](https://www.upwork.com/freelancers/~0196d164c49e160237)
+- [Upwork](https://www.upwork.com/freelancers/~0196d164c49e160237) (freelance data analyst)
