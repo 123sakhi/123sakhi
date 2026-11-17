@@ -1,6 +1,6 @@
 # Introduction: Hanif Sakhi (123sakhi)
 
-M.Sc. Economics student at Kiel University (CAU), Germany. I work on **forecasting, risk measures and analytics** for **financial markets, energy trading and retail**.
+M.Sc. Economics student at Kiel University (CAU), Germany. I work on **forecasting, risk measures and analytics** for **financial, energy, crypto and retail markets**.
 
 ## Focus areas
 
@@ -9,7 +9,7 @@ M.Sc. Economics student at Kiel University (CAU), Germany. I work on **forecasti
 | Financial markets | Option pricing, Greeks, implied-volatility surfaces, hedging simulations |
 | Energy and trading | Price forecasting, trading signals, risk metrics (Sharpe ratio, VaR, drawdown) |
 | Retail | Strategic planning and analytics (working student at ABOUT YOU, until May 2026) |
-| Forecasting and risk | Time-series models (ARIMA), Monte-Carlo simulation, performance and risk reporting |
+| Forecasting and risk | Time-series models (ARIMA), Monte-Carlo simulation, GARCH Models, Markov Switching model, performance and risk reporting |
 
 ## Projects
 
@@ -18,7 +18,7 @@ M.Sc. Economics student at Kiel University (CAU), Germany. I work on **forecasti
 
 ## Tools
 
-Python, pandas, NumPy, SciPy, statsmodels, Plotly/Dash, Git
+Claude code, Python, pandas, NumPy, SciPy, statsmodels, Plotly/Dash, Git
 
 ## Contact
 
